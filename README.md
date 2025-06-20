@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mMagdzik/mMagdzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image width=90% ](/HELLO.png)
 
-Here are some ideas to get you started:
+## CORE STACK:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,mongodb,nodejs,express)](https://skillicons.dev)
+
+## STATE MANAGEMENT:
+
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) <img src="./zustand.png" alt="Zustand" width="80"/>
+
+#### **CONTEXT API & HOOKS**
+
+## UI:
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents)](https://skillicons.dev)<img src="./chakra.png" alt="Zustand" width="70"/>&nbsp;&nbsp;
+
+## TOOLS:
+
+[![My Skills](https://skillicons.dev/icons?i=git,figma,postman,vscode)](https://skillicons.dev)
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<h2>↓ See my repositories ↓</h2>
+</div>
